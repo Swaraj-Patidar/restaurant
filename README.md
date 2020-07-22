@@ -1,19 +1,28 @@
 
 Technical Questions
 
+CLICK THE "Restaurant Finder" LINK ON THE TOP WHILE VIEWING THE DEMO.
+
+[DEMO](http://Swaraj-Patidar.github.io/restaurant)
+
 1. How long did you spend on the coding assignment? What would you have did to your solution if you had more time? If you didn't spend much time on the coding test then use this as an opportunity to explain what you would add.
+
 Ans:- Almost 2 days as I was working on my personal laptop which was quite slow and also i was working on react js after a long time so it took me time to get used to the flow and syntax. Also I am quite bad at designing part so might have worked on improving ui part and introduced some more features.   
 
 2. What was the most useful feature that was added to the latest version of your chosen language? Please include a snippet of code that shows how you've used it.
+
 Ans:- As I was working on react almost after 3 months so i don't have the idea about any new feature.
 
 3. How would you track down a performance issue in production? Have you ever had to do this?
+
 Ans:-I will try to monitor end-user experience for web apps as I haven't worked on any live project so I haven't done this before.
 
 4. How would you improve the API that you just used?
+
 Ans:- I think it was good for any beginner.
 
 5. Please describe yourself using JSON.
+
 Ans:-This is me 
 {
 "name": "Swaraj",
@@ -26,7 +35,6 @@ Ans:-This is me
 "Cricket",
 "Teaching others"
 ],
-
 "dreams": [
 "To make this world a better place!"
 ],
