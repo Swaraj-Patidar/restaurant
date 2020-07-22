@@ -37,7 +37,7 @@ class Search extends Component
   return (
     <div className='content-container content'>
       <div className='page-header'>
-        <h2 className="page-header__title">Find your restaurant</h2>
+        <h2 className="page-header__title">Find your perfect restaurant</h2>
       </div>
      
       <div class="search-container">
