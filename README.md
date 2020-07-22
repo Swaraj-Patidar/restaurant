@@ -1,9 +1,10 @@
 
-Technical Questions
-
-CLICK THE "Restaurant Finder" LINK ON THE TOP WHILE VIEWING THE DEMO.
+NOTE:- CLICK THE "Restaurant Finder" LINK ON THE TOP WHILE VIEWING THE DEMO BELOW.
 
 [DEMO](http://Swaraj-Patidar.github.io/restaurant)
+
+
+Technical Questions:
 
 1. How long did you spend on the coding assignment? What would you have did to your solution if you had more time? If you didn't spend much time on the coding test then use this as an opportunity to explain what you would add.
 
